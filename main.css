@@ -1,0 +1,37 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(243, 212, 217);
+}
+div{
+    width: 800px;
+    margin: 0 auto;
+    background-color: rgb(247, 73, 73);
+    border: 1px black solid;
+}
+img{
+    width: 200px;
+    height:250px;
+    display: inline-block;
+    vertical-align:top;
+}
+section{
+    display: inline-block;
+    width: 590px;
+    margin-left: 6px;
+}
+li{
+    list-style: none;
+    background-color: rgb(255, 198, 93) ;
+    display: inline-block;
+}
+a{
+    text-decoration: none;
+}
+h2{
+    text-align: center;
+    display: inline-block;
+    margin-top:10px ;
+}
+#o{
+    font-size: 20px;
+}
