@@ -1,1 +1,2 @@
 # first
+By doing this project, I will be particularly practicing on how to make lists on html, both ordered and unordered. In addition this project will help understand the anchoring thing, and how to put an image in your website page.
